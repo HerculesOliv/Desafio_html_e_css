@@ -1,0 +1,34 @@
+    .icone {
+        width: 90px;
+        height: 90px;
+    }
+
+    label {
+        font-family: 'varino', sans-serif;
+        font-size: 30px;
+        font-weight: bold; 
+        position: absolute;
+        top: 35px;
+        left: 120px;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: black;
+    }
+
+    a {
+        
+        padding: 5px 15px;
+        background-color: rgb(20, 168, 208);
+        color: white;
+        border-radius: 5px;
+        text-decoration: none;
+    }
+
+    .texto {
+        font-family: Raleway;
+    }
